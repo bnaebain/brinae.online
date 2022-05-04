@@ -1,2 +1,2 @@
-# brinae.online
+# www.brinae.online
 Personal Website (under construction)
